@@ -1,0 +1,13 @@
+{
+    "ID":"5681a82267eb11e891758e15d306b185",
+    "ActionKeyword":"test",
+    "Name":"linux command",
+    "Description":"linux command",
+    "Author":"daydaygo",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/daydaygo/wox-linux-command",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"icon.png"
+
+}
