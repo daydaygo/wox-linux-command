@@ -10,7 +10,7 @@ class Main(Wox):
             return ""
 
         r = requests.get(
-            'https://raw.githubusercontent.com/jaywcjlove/linux-command/master/dist/data.json')
+            'https://unpkg.com/linux-command@1.0.6/dist/data.json')
         j = r.json()
         results = []
         for k in j:
